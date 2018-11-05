@@ -3,9 +3,4 @@ body {
   height: 100%;
 }
 
-.map {
-  position: absolute;
-  background-color: #f2efe9;
-  width: 100%;
-  height: 100%;
-}
+abcs
